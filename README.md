@@ -14,7 +14,9 @@ Don’t know the widely studied directions of your field
 
 => When writing Introduction and Disscussion: 
 
-Cannot give a global view of background Cannot list important projects that have been done 
+Cannot give a global view of background 
+
+Cannot list important projects that have been done 
 
 Missing important previous conclusions related to your study
 
