@@ -43,3 +43,11 @@ You can also try it for a new research field to know important information ASAP.
 
 Don’t want to be lost in the sea of information? Try RWA!
 
+ ===========================
+ 
+ Usage:
+1. Customize your search on PubMed with journal names, keywords, publishing year etc.
+2. Download abstracts in the format of Medline and name the file as abstract_medline.txt.
+3. Put the program at the same folder and double click it.
+
+===========================
