@@ -38,6 +38,12 @@ What does RWA do?
 
 Extract and sort important information using frequency-based information sorting (FIS) strategy
 
+The output important_word.txt contains high frequency keywords of abstracts, representing important research directions.
+
+The output important_sentence.txt contains high-score sentences, representing common background information, projects that have been done and important conclusions that have been drawn.
+
+The output important_sentence_grouped.txt contains grouped sentences based on originating references, which help understanding and writing manuscript (especially Introduction and Discussion).
+
  ===========================
  
 You can also try it for a new research field to know important information ASAP.
